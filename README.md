@@ -12,9 +12,9 @@ Notion: https://www.notion.so/luddite-e6e75251c6924554a5b9a45bbe0ee196
 |3|2023-11-26|Video-based Generative AI|
 
 # My Presentation
-Topic : Transformer
-Date : 2023-11-26
-Contents : Transformer, Attention, Vision Transformer(ViT)의 개념과 동작구조
+Topic : Transformer  
+Date : 2023-11-26  
+Contents : Transformer, Attention, Vision Transformer(ViT)의 개념과 동작구조  
 
 # Archive
 - Insta @mynameisluddite
